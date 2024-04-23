@@ -1,0 +1,3 @@
+[submodule "HP"]
+	path = HP
+	url = https://github.com/hakutaku22/youtube-streaming.git
